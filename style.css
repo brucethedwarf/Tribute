@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.circular-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.inline {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: #6a5acd;
+    color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 20px 0;
+}
